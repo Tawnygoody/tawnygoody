@@ -25,6 +25,7 @@
 <a href="https://www.linkedin.com/in/christopher-goodfellow-3aba641bb/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+📧 chrisgoodfellow1@hotmail.com
 
 
 
